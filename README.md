@@ -1,6 +1,6 @@
 # Calculator Project
 
-Helping all the star wars fans to do their math for intergalactic travel
+Helping all the star wars fans to do their math for intergalactic travel with this [amazing calculator app](https://mojoee.github.io/04_Calculator/)
 
 ![App Layout](./images/finalApp.png)
 
